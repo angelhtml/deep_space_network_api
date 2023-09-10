@@ -1,0 +1,38 @@
+{
+  "name": "dsn-api",
+  "version": "1.0.0",
+  "description": "deep space network api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "build": "webpack",
+    "api": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelhtml/deep_space_network_api.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "dsn"
+  ],
+  "author": "angelcodestyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelhtml/deep_space_network_api/issues"
+  },
+  "homepage": "https://github.com/angelhtml/deep_space_network_api#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "webpack": "^5.88.2",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
