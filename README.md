@@ -1,7 +1,7 @@
 # deep_space_network_api
 
 <p align="center">
-    <img src="https://eyes.nasa.gov/dsn/images/spacecraft/james%20webb%20space%20telescope.jpg" width="300px" alt="dsn"/>
+    <img src="https://iili.io/JdXy8l9.png" width="600px" alt="dsn"/>
 </p>
 
 live deep space network API 📡
